@@ -35,4 +35,4 @@ A more comprehensive example that creates multiple jobs concurrently is shown in
 
 ### Possible future improvements
 - Allow **Scheduler** to pause jobs rather than just start or stop.
-- Allow **RunnableJob** to schedule jobs before the last jobs are completed. (There still has to be a threshold)
+- Allow **RunnableJob** to schedule jobs before the last jobs are completed. (There still has to be a threshold)# CronScheduler
